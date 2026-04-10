@@ -38,9 +38,9 @@ dev = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/dbhurley/markitdown-plasmate#readme"
-Issues = "https://github.com/dbhurley/markitdown-plasmate/issues"
-Source = "https://github.com/dbhurley/markitdown-plasmate"
+Documentation = "https://github.com/plasmate-labs/markitdown-plasmate#readme"
+Issues = "https://github.com/plasmate-labs/markitdown-plasmate/issues"
+Source = "https://github.com/plasmate-labs/markitdown-plasmate"
 
 # IMPORTANT: MarkItDown discovers plugins via this entry point.
 [project.entry-points."markitdown.plugin"]
